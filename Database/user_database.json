@@ -1,0 +1,17 @@
+[
+	{
+		"username": "admin",
+		"password_hash": "ass",
+		"privelage": 9
+	},
+	{
+		"username": "niklas",
+		"password_hash": "nikpwrdhsh",
+		"privelage": 3
+	},
+	{
+		"username": "user1",
+		"password_hash": "user1pwrdhsh",
+		"privelage": 0
+	}
+]
