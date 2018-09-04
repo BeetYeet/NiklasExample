@@ -1,0 +1,38 @@
+	This is a full list of commands.
+	If any do not seem to work, make sure you have privilages to use them 
+	(login, help and exit is allowed no matter privilage)
+
+	login
+		allows you to log in
+
+	login <username> <password>
+		simple one-line login
+
+	register 
+		(privilages can only be same ore lower than current account)
+		(requires privilages 2+)
+		allows you to create an account
+
+	register <username> <password> <privilages> [-a]
+		(privilages can only be same ore lower than current account)
+		(requires privilages 2+)
+		simple one-line register
+		-a specifies that you want to autologin
+
+	help
+		displays help page
+
+	logout
+		logs current user out
+
+	exit
+		exits the program
+
+	run
+		attempts to run specified application
+
+	whoami
+		displays username and privilage if logged in
+
+	list
+		lists all users and their attributes

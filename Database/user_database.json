@@ -1,17 +1,8 @@
 [
-	{
-		"username": "admin",
-		"password_hash": "ass",
-		"privelage": 9
-	},
-	{
-		"username": "niklas",
-		"password_hash": "nikpwrdhsh",
-		"privelage": 3
-	},
-	{
-		"username": "user1",
-		"password_hash": "user1pwrdhsh",
-		"privelage": 0
-	}
+    {
+        "username": "admin",
+        "password_hash": "595207b2097c5fb23d32612e16d0dfb7b1d3d7d9e295ea0d54081bf1836f3b0b",
+        "salt": "31337",
+        "privilage": 9
+    }
 ]
